@@ -1,4 +1,4 @@
-<p align=center>Statistical Mechanics of Mowing Stripes on Golf Course Greens</p>
+#  <p align=center>Statistical Mechanics of Mowing Stripes on Golf Course Greens</p>
 
 
 Consider the greensmower below.
