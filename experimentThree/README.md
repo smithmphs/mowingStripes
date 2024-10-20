@@ -2,4 +2,4 @@ No stripes were photographed in this experiment.  Instead, the same swatch of tu
 <p align=center>
   <img src=figure.png>
 </p>
-As you can see, the dominant angle changed as expected within a certain tolerance for experimental variability.
+As you can see, the dominant angle ofthe grass changed as expected within a certain tolerance for experimental variability.
