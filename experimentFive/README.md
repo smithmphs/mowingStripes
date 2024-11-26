@@ -2,5 +2,5 @@ This was a very simple experiment.  A photograph was taken of a piece of green. 
 As expected, both the dominant angle and the coherency changed.
 
 <p align=center>
-  <img src=results.pdf>
+  <img src=results.jpg>
 </p>
