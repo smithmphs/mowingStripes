@@ -11,7 +11,7 @@ See the mowing stripes his mower is creating in the background? Folklore says th
 
   * [First Experiment](experimentOne/README.md) : our first attempt, a beautiful summer morning on a green freshly mowed using a riding triplex.
   * [Second](experimentTwo/README.md) : a sunny afternoon, on a green mowed laterally (with respect to the approach) several hours before.  Annotated cardboard templates were included in the photographs for the first time to ease post-processing.
-  * [Sanity Check](experimentThree/README.md) : if the same area of turf is photographed but at different angles, how does the dominant angle change?
+  * [Sanity Check](experimentThree/README.md) : if the same area of turf is photographed repeatedly but at different angles, how does the dominant angle change?
   * [Another Sanity Check](experimentFour/README.md):  does illumination affect the called dominant angle?
 
 For analysis, we have been using [orientationj](https://bigwww.epfl.ch/demo/orientation/) and [orientationpy](https://epfl-center-for-imaging.gitlab.io/orientationpy/introduction.html) thus far.  The latter outputs some especially artful analysis as shown below using a small snippet of bent grass.  This also serves to illustrate how the software calls the angles.
