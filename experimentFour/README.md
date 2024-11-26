@@ -3,3 +3,5 @@ In this experiment, we wondered if illumination affected the dominant angle dete
 <p align=center>
   <img src=screenshot.png>
 </p>
+
+Check it our for yourself, this directory contains the raw image.
